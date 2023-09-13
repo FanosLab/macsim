@@ -1,3 +1,3 @@
 Pin: pin-3.13-98189-60a6ef199
 Copyright 2002-2019 Intel Corporation.
-E:  itrace.cpp:38: Invalid IARG_TYPE: IARG_-1886603424 for instruction at address: 0x7f87a39982b0.
+E:  Missing application name

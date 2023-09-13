@@ -48,7 +48,7 @@ POSSIBILITY OF SUCH DAMAGE.
  */
 
 using namespace INSTLIB;
-
+#define t_gen_ver 1.3
 #if defined(TARGET_LINUX)
 #define PINLINUX
 #define WRITEM "w"
@@ -60,7 +60,7 @@ using namespace INSTLIB;
 #define ctr_t UINT64
 #define uns UINT32
 
-#define t_gen_ver 1.3
+
 
 #define DUMMY_THREAD 100000
 

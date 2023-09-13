@@ -1,4 +1,4 @@
-file /home/dm4/macsim/SConstruct,line 55:
+file /home/dm4/macsim-4dm4/SConstruct,line 55:
 	Configure(confdir = .sconf_temp)
 scons: Configure: Checking for c++14 conformance...
 scons: Configure: ".sconf_temp/conftest_7d8c217bde5c726b6344dda4487440bd_0.cpp" is up to date.
